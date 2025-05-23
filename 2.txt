@@ -1,0 +1,1 @@
+./ssdtPRGen.sh -p 'i7-3770K' -f 3500 -turbo 3900 -b Ivy Bridge
